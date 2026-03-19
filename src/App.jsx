@@ -16,7 +16,7 @@ const topicCatalog = [
   { id: 'jealousy', order: 12, name: '질투와 탐심', totalQuestions: 41 },
   { id: 'control', order: 13, name: '통제', totalQuestions: 69 },
   { id: 'entitlement', order: 14, name: '권리의식', totalQuestions: 85 },
-  { id: 'instability', order: 15, name: '불안정한 마음', totalQuestions: 17 },
+  { id: 'instability', order: 15, name: '불안정한 마음', totalQuestions: 22 },
 ];
 
 function buildCategories(rawCategories) {

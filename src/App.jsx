@@ -166,8 +166,8 @@ const condemnationCategories = buildCategories([
       `진리를 들었는데 내가 그 진리대로 살지 못하면, 나는 그 사실을 쉽게 인정하고 싶어 하지 않습니다. 예를 들어 누군가 나에게 ‘그리스도인의 승리하는 삶’에 대해 진리를 말해 주었는데 내가 하루 종일 패배하는 느낌으로 살았다면, 나는 마치 그 진리 가운데 살았던 것처럼 그냥 넘어가고 싶어 합니다.`,
       `나는 다른 사람들과 거리를 두고 혼자 있으려고 하며, 독립적인 경향이 많습니다. 이렇게 하면 내가 얼마나 자주 낙심하고 무너지는지 다른 사람들에게 보이지 않아도 되기 때문입니다.`,
       `나는 종종 다른 사람들과 함께 있는 것이 두렵고 불편하며, 다른 사람들과 있을 때는 내 안에 열등감이 더 심하게 일어나곤 합니다. 그래서 자기 정죄에 빠지게 되고, 이런 이유 때문에 사람들을 피한다는 사실도 인정하지 않고 싶어 합니다.`,
-      `나는 기도를 통해 자기 연민을 덜어주는 마음의 위로를 얻고 싶어 합니다. 진정한 회개 보다는 끊임없는 위로와 격려를 더 선호하는 경향이 있습니다.`
-    ]
+      `나는 기도를 통해 자기 연민을 덜어주는 마음의 위로를 얻고 싶어 합니다. 진정한 회개 보다는 끊임없는 위로와 격려를 더 선호하는 경향이 있습니다.`,
+    ],
   },
   {
     id: 'condemnation-2',
@@ -176,8 +176,8 @@ const condemnationCategories = buildCategories([
       `나는 종종 비현실적인 기대치를 설정합니다. 다른 사람들이 나에게 기대하는 수준을 넘어서는 것은 물론이고, 오히려 더 높은 기준을 세우려고 합니다.그것이 나에게 성공의 기준이기 때문입니다. 그러나 그 기대를 이루지 못하면 스스로를 심하게 정죄합니다.`,
       `나는 종종 정죄감의 생각들을 상쇄하기 위해, 맡겨진 일 이상의 책임을 감당하려고 지나치게 무리합니다.`,
       `나는 내가 해야 할 일에 대해서 하나님께 방향을 구하기 보다는, 쉽게 세상의 기준과 기대를 따라가는 경우가 많습니다.`,
-      `나는 스스로 느끼는 수치나 실패감을 일부러 다른 사람들에게 드러내기도 합니다. 그렇게 하면 자기 정죄의 무게가 조금은 덜해지는 것 같기 때문입니다.`
-    ]
+      `나는 스스로 느끼는 수치나 실패감을 일부러 다른 사람들에게 드러내기도 합니다. 그렇게 하면 자기 정죄의 무게가 조금은 덜해지는 것 같기 때문입니다.`,
+    ],
   },
   {
     id: 'condemnation-3',
@@ -187,15 +187,15 @@ const condemnationCategories = buildCategories([
       `나는 나 자신에게 지나치게 몰두하는 성향인데, 겉으로는 드러내지 않지만 항상 내 안에 정죄감이 자리잡고 있습니다.`,
       `나의 이런 사고 경향에 대해 도전하는 사람들은 피하고 싶고, 이것을 공감하고 동정해 주는 사람들만 만나고 싶어 합니다.`,
       `정죄감은 내 말버릇이 되어서 다른 사람들과 대화할 때도 “요즘 너무 힘들어요”라는 말이 습관처럼 나오곤 합니다. 이는 내가 얼마나 스스로에게 빠져 사는지 보여주는 한 가지 신호입니다.`,
-      `때로는 반대로 “요즘 아주 잘 지내요”라고 말하기도 합니다. 하지만 남들과 대화하면서도 자꾸 내 생각 속에 빠져들어서 다른 사람의 이야기를 제대로 듣지 못할 때가 많습니다. 나는 마치 나만의 세계에 빠져 사는 것 같아서 다른 사람들의 말에 잘 집중하지 못합니다.`
-    ]
+      `때로는 반대로 “요즘 아주 잘 지내요”라고 말하기도 합니다. 하지만 남들과 대화하면서도 자꾸 내 생각 속에 빠져들어서 다른 사람의 이야기를 제대로 듣지 못할 때가 많습니다. 나는 마치 나만의 세계에 빠져 사는 것 같아서 다른 사람들의 말에 잘 집중하지 못합니다.`,
+    ],
   },
   {
     id: 'condemnation-4',
     name: '사람들과의 비교 의식(특히 리더십 위치에 있는 사람들과)',
     questions: [
-      `나는 다른 사람들을 이끌고 성장하도록 도와야 한다는 책임을 느끼고 있습니다. 그러나 그들이 어려움을 겪거나 실패하는 모습을 보면 나는 그것을 내 책임처럼 받아들입니다. 또한 내 사역과 활동을 다른 사람들과 비교하면서, 내가 부족하다고 스스로 판단할 때가 많습니다.`
-    ]
+      `나는 다른 사람들을 이끌고 성장하도록 도와야 한다는 책임을 느끼고 있습니다. 그러나 그들이 어려움을 겪거나 실패하는 모습을 보면 나는 그것을 내 책임처럼 받아들입니다. 또한 내 사역과 활동을 다른 사람들과 비교하면서, 내가 부족하다고 스스로 판단할 때가 많습니다.`,
+    ],
   },
   {
     id: 'condemnation-5',
@@ -204,8 +204,8 @@ const condemnationCategories = buildCategories([
       `나는 하나님께서 내게 맡기신 일에 대해 자꾸 의심하거나 흔들릴 때가 많습니다. 예를 들어 하나님은 그저 내가 가족과 기쁘고 즐거운 시간을 보내길 원하셨지만, 나는 하나님이 하라고 하신 것 외에도 가족들에게 카드 다섯 장을 더 써야겠다고 스스로 정합니다. 이렇게 내 기준과 계획을 세우고서 그것으로 스스로를 평가합니다. 그 결과, 하나님이 원하시는 것이 아닌 내가 만든 기준 때문에 정죄감에 빠질 때가 많습니다.`,
       `나는 스스로 정한 종교적 목표들 때문에 나 자신을 짓누를 때가 많습니다. 기도, 성경공부, 암송, 봉사, 나눔 같은 신앙활동들을 체크리스트로 삼고, 그것으로 내 영적 상태를 판단합니다. 하지만 이런 목표들은 하나님이 주신 것이 아니라, 내가 스스로 ‘주님을 위해 산다’고 생각하며 만든 기준들일 뿐입니다.`,
       `(사례 반영) 하루 종일 아이들을 돌보고 사랑하며 충실하게 살았음에도, 스스로 정한 기준(성경 여섯 장 읽기, 충분한 중보기도 등)을 채우지 못하고 잠자리에 들 때 하루를 성실히 주님께 드렸음에도 불구하고 스스로 실패했다고 자책하곤 합니다.`,
-      `나는 영적인 확신을 가져본 적이 없습니다. 가령 주님을 전하거나, 가르치거나, 모임을 인도하거나, 부르심에 응답할 수 있을 만큼 제대로 배우거나 기도해 온 것이 없다고 느낍니다.`
-    ]
+      `나는 영적인 확신을 가져본 적이 없습니다. 가령 주님을 전하거나, 가르치거나, 모임을 인도하거나, 부르심에 응답할 수 있을 만큼 제대로 배우거나 기도해 온 것이 없다고 느낍니다.`,
+    ],
   },
   {
     id: 'condemnation-6',
@@ -215,9 +215,9 @@ const condemnationCategories = buildCategories([
       `하나님께서 나에게 선언하신 말씀과는 반대로, 거짓 자아상과 불신에 사로잡혀서 스스로를 비판하는 생각에 자주 집착합니다.`,
       `다른 사람들이 내게 주는 축복이나 진리의 말들에 대해 방어적으로 반응하거나 토를 달거나 논쟁까지 벌일 정도로 자기를 정죄하는 생각들에 사로잡히곤 합니다.`,
       `저는 대체로 권위와 질서를 무시하는 편입니다. 왜냐하면 다른 사람들이 정한 기준에 맞춰 평가받는 것이 두렵고 불안하기 때문입니다. 이렇게 해서 나 자신을 예외적인 존재로 여기려 합니다.`,
-      `나는 내 반항심과 자기 정죄를 덮기 위해, 여러 가지 섬김의 행동들에 힘쓰면서, 권위있는 사람들에게 인정받고 싶어 합니다.`
-    ]
-  }
+      `나는 내 반항심과 자기 정죄를 덮기 위해, 여러 가지 섬김의 행동들에 힘쓰면서, 권위있는 사람들에게 인정받고 싶어 합니다.`,
+    ],
+  },
 ]);
 
 const angerCategories = buildCategories([
@@ -249,8 +249,8 @@ const angerCategories = buildCategories([
       `나는 용서했다고 말하지만 속으로 그 주제들을 계속 되짚어 생각할 때가 많습니다.`,
       `다른 사람들의 결점과 실수를 보면 금방 답답함을 느낍니다.`,
       `나는 금방 조급해지는 편입니다.`,
-      `종종 내 삶이 다른 사람들보다 더 힘들다고 느낍니다. ‘나는 팔자가 사납다’.`
-    ]
+      `종종 내 삶이 다른 사람들보다 더 힘들다고 느낍니다. ‘나는 팔자가 사납다’.`,
+    ],
   },
   {
     id: 'anger-2',
@@ -275,9 +275,9 @@ const angerCategories = buildCategories([
       `성적 학대`,
       `부모님이 애정이나 축복, 훈육 또는 격려와 인정의 말들을 잘 해주지 않았나요?`,
       `부모님이 다른 형제 자매들을 대하는 방식을 볼 때 마음이 상하고 씁쓸했던 적이 있었나요?`,
-      `아버지가 어머니를 대하는 모습을 볼 때 당신의 마음이 상하고 괴로운 적이 있었나요?`
-    ]
-  }
+      `아버지가 어머니를 대하는 모습을 볼 때 당신의 마음이 상하고 괴로운 적이 있었나요?`,
+    ],
+  },
 ]);
 
 const criticalCategories = buildCategories([
@@ -297,9 +297,9 @@ const criticalCategories = buildCategories([
       `나는 내 관점을 설득하기 위해서 때로는 남들(가족, 친구, 동료 등)의 약점을 부각시키기도 한다.`,
       `나 보다 수준이 낮은 사람들은 낮추어 보는 경향이 있다.`,
       `가치관이나 사고방식, 삶의 스타일 등에서 나와 다른 크리스천들은 존중하지 못하며, 그들과 편하게 교제하면서 협력하지 못한다.`,
-      `나는 변화에 저항한다. 새로운 아이디어나 새로운 방식으로 일 하는 것이 어렵다.`
-    ]
-  }
+      `나는 변화에 저항한다. 새로운 아이디어나 새로운 방식으로 일 하는 것이 어렵다.`,
+    ],
+  },
 ]);
 
 const appearanceCategories = buildCategories([
@@ -314,8 +314,8 @@ const appearanceCategories = buildCategories([
       `나는 성경이 아름다움에 대해 가르쳐주는 것들을 무시하고 부정하며 살았습니다.`,
       `나는 외모 콤플렉스를 극복할 수 없을 것이고, 평생 불만족스럽게 살 거라고 생각했습니다.`,
       `나는 자기 중심적인 관점에서 나오는 교만한 태도로 스스로를 평가할 때가 많았습니다.`,
-      `나는 무의식 중에 자신이 불쌍하고 구제불능이라는 거짓말을 믿었습니다. 또 내 삶이 우울하고 절망적이어서 아무런 도움도 받을 수 없을 거라고 생각했습니다.`
-    ]
+      `나는 무의식 중에 자신이 불쌍하고 구제불능이라는 거짓말을 믿었습니다. 또 내 삶이 우울하고 절망적이어서 아무런 도움도 받을 수 없을 거라고 생각했습니다.`,
+    ],
   },
   {
     id: 'appearance-2',
@@ -327,8 +327,8 @@ const appearanceCategories = buildCategories([
       `하나님이 일상적으로 내게 주시는 많은 것들에 대해 당연시하고 감사하지 못합니다.`,
       `‘바비 인형’ 같은 이미지가 아름답다고 하는 세상의 선입견을 믿고 따라가곤 합니다.`,
       `내가 언제나 ‘완벽하게’ 보여야 한다는 고정 관념을 믿고 따라갈 때가 많습니다.`,
-      `나는 내면에서 느끼는 불만과 괴로움을 감추기 위해 겉으로 가면을 쓸 때가 종종 있습니다.`
-    ]
+      `나는 내면에서 느끼는 불만과 괴로움을 감추기 위해 겉으로 가면을 쓸 때가 종종 있습니다.`,
+    ],
   },
   {
     id: 'appearance-3',
@@ -338,8 +338,8 @@ const appearanceCategories = buildCategories([
       `나의 외모가 내 정체성을 결정해 준다고 생각합니다.`,
       `외모가 예뻐야만 행복하고 성공할 수 있다고 생각합니다.`,
       `내 꿈을 이루려면 반드시 세상의 눈에 ‘아름답게 보여야’ 한다는 고정관념을 믿고 삽니다.`,
-      `나는 하나님 보다 나 자신에게 더 집중하며, 스스로에 대해 지나치게 의식하며 살아갑니다.`
-    ]
+      `나는 하나님 보다 나 자신에게 더 집중하며, 스스로에 대해 지나치게 의식하며 살아갑니다.`,
+    ],
   },
   {
     id: 'appearance-4',
@@ -347,8 +347,8 @@ const appearanceCategories = buildCategories([
     questions: [
       `나를 외모로 판단하고 거절한 사람들에 대해 쓴 마음을 품고 살아갑니다.`,
       `남들이 내게 준 상처되는 말들(너는 뚱뚱해, 못생겼어, 멍청해 등)을 믿고 따랐습니다.`,
-      `내게 상처주는 말을 한 사람들에게 쓴 마음을 느끼며 삽니다.`
-    ]
+      `내게 상처주는 말을 한 사람들에게 쓴 마음을 느끼며 삽니다.`,
+    ],
   },
   {
     id: 'appearance-5',
@@ -363,9 +363,9 @@ const appearanceCategories = buildCategories([
       `식사를 거르거나 굶음`,
       `과식`,
       `폭식 후 구토`,
-      `완하제 사용(변비약)`
-    ]
-  }
+      `완하제 사용(변비약)`,
+    ],
+  },
 ]);
 
 const rejectionCategories = buildCategories([
@@ -405,9 +405,9 @@ const rejectionCategories = buildCategories([
       `함께 예배할 때도, 다른 사람들이 나를 어떻게 볼지 신경 쓰여서 자유롭지 못합니다.`,
       `내가 필요하다고 느껴져야 안심이 되기 때문에, 사람들이 나 없이는 못 버틸 상황을 자꾸 만들려는 경향이 있습니다.`,
       `누군가 위로나 격려가 필요한 걸 알면서도, 표현하지 않고 침묵할 때가 많습니다.`,
-      `실패하거나 거절당할까 봐 믿음으로 담대하게 나서지 못할 때가 많습니다.`
-    ]
-  }
+      `실패하거나 거절당할까 봐 믿음으로 담대하게 나서지 못할 때가 많습니다.`,
+    ],
+  },
 ]);
 
 const deceptionCategories = buildCategories([
@@ -848,8 +848,8 @@ const controlCategories = buildCategories([
       `나는 다른 사람의 행동을 바꾸고 싶어서, 말이나 비언어적인 표현들을 사용해 내 불만을 드러낼 때가 있습니다.`,
       `나는 사실대로 모두 말하기 보다는, 내 목적에 도움이 될 것 같은 내용만 선별해서 전달할 때가 있습니다.`,
       `나를 더 좋게 보이고 싶거나, 내가 원하는 바를 얻고 싶어서, 숨은 동기를 가지고 투명하지 않게 말하거나 행동할 때가 있습니다.`,
-      `다른 사람에게 영향을 끼쳐서 나의 사적인 이익을 도모하고자, 권위(지위)를 교묘하게 정직하지 않은 방식으로 사용하는 경우가 있습니다.`
-    ]
+      `다른 사람에게 영향을 끼쳐서 나의 사적인 이익을 도모하고자, 권위(지위)를 교묘하게 정직하지 않은 방식으로 사용하는 경우가 있습니다.`,
+    ],
   },
   {
     id: 'control-2',
@@ -868,8 +868,8 @@ const controlCategories = buildCategories([
       `감정 기복이 심하고 변덕스러운`,
       `대립적이고 충돌을 일삼는`,
       `모든 것을 아는 척하는, 잘난 체하는`,
-      `겉과 속이 다르며, 진실하지 않은`
-    ]
+      `겉과 속이 다르며, 진실하지 않은`,
+    ],
   },
   {
     id: 'control-3',
@@ -924,9 +924,9 @@ const controlCategories = buildCategories([
       `내 뜻을 관철하기 위해 다른 사람에게 죄책감을 주기도 한다.`,
       `나는 안정감에 대한 집착이 있다. 직장, 배우자, 친구들, 물질적 안락(가전제품, 스포츠 용품, 가구, 옷, 좋은 차, 음식 등)에 대한 안정 욕구를 과도하게 추구한다.`,
       `나의 평판에 신경을 많이 쓰고, 평판을 좋게 하기 위해 애쓰는 편이다.`,
-      `나는 자기연민에서 빠져나오기가 어렵다.`
-    ]
-  }
+      `나는 자기연민에서 빠져나오기가 어렵다.`,
+    ],
+  },
 ]);
 
 const entitlementCategories = buildCategories([
@@ -1061,8 +1061,8 @@ const instabilityCategories = buildCategories([
       `나는 종종 다른 사람들이 나를 어떻게 생각할지 걱정하는 마음이 있습니다.`,
       `사람들이 모인 자리에 나가거나 앞에 서서 발표할 때, 지나치게 긴장하며 부담스러워 합니다.`,
       `나는 실제로 그런 말이 없더라도, 사람들이 내 이야기를 하고 있을 거라고 상상할 때가 있습니다.`,
-      `나는 현실과 분리된 느낌을 받으면서, 내 안의 세계 속에서 살아갈 때가 있습니다.`
-    ]
+      `나는 현실과 분리된 느낌을 받으면서, 내 안의 세계 속에서 살아갈 때가 있습니다.`,
+    ],
   },
   {
     id: 'instability-2',
@@ -1075,8 +1075,8 @@ const instabilityCategories = buildCategories([
       `역할 연기자 - 나는 '운동선수', '성공인’, '완벽한 경영자', '항상 해내는 사람' 같은 역할로 나 자신을 규정하고 싶어 합니다.`,
       `피해자 - 내 삶이 남들보다 더 힘든 것 같아서, 주님을 따르는데 헌신하지 않아도 된다고 생각합니다.`,
       `완벽주의 - 나는 세상과 교회에서 존경받는 사람들을 조합해서 그 모습을 흉내 내곤 합니다.`,
-      `과도한 개성 - 자신감 결핍을 감추기 위해 내 개성을 지나치게 강조하는 경향이 있습니다.`
-    ]
+      `과도한 개성 - 자신감 결핍을 감추기 위해 내 개성을 지나치게 강조하는 경향이 있습니다.`,
+    ],
   },
   {
     id: 'instability-3',
@@ -1086,8 +1086,8 @@ const instabilityCategories = buildCategories([
       `자존심과 독립성 - 나의 가치를 증명하려고 애씀. 남에게 배우려고 하지 않고, 위기가 올 때만 조언을 구함.`,
       `"난 할 수 없어" 사고방식 - 시도하기도 전에 자신이 무능하다고 확신함.`,
       `언제나 패배자의 시각에서 말하는 습관 - 지속적인 염세주의(비관주의)로 표현됨.`,
-      `남 탓하기 - 내 삶의 문제는 대부분 다른 사람들 때문이라고 믿음(예: 상사, 배우자, 친구, 자녀 등).`
-    ]
+      `남 탓하기 - 내 삶의 문제는 대부분 다른 사람들 때문이라고 믿음(예: 상사, 배우자, 친구, 자녀 등).`,
+    ],
   },
   {
     id: 'instability-4',
@@ -1097,9 +1097,9 @@ const instabilityCategories = buildCategories([
       `좌절감을 느낄 때가 많으며, 다른 사람들이 한 일(혹은 하지 않은 일) 때문에 실망하고 탄식하곤 합니다.`,
       `잠자리에 들 때, 자기 자신이나, 결혼 생활, 친구들과의 관계를 돌아보며 후회하고 아쉬운 마음을 느낄 때가 많습니다.`,
       `나의 약점과 부족한 부분들에 대해 자주 생각하면서 스스로 자책하고, 노후를 암울하게 바라볼 때가 종종 있습니다.`,
-      `세상의 미래나 인류의 역사가 잘못된 방향으로 가고 있다는 부정적 관점들(음모론 등)에 동조하면서 불안한 마음을 달래려고 합니다.`
-    ]
-  }
+      `세상의 미래나 인류의 역사가 잘못된 방향으로 가고 있다는 부정적 관점들(음모론 등)에 동조하면서 불안한 마음을 달래려고 합니다.`,
+    ],
+  },
 ]);
 
 export const __TEST_CASES__ = {
@@ -1183,7 +1183,10 @@ export default function GyeongoJinTestApp() {
   const [answers, setAnswers] = useState({});
 
   const filteredCategories = useMemo(() => getCategoriesByTopic(selectedTopicId), [selectedTopicId]);
-  const selectedCategory = useMemo(() => filteredCategories.find((category) => category.id === selectedCategoryId) || null, [filteredCategories, selectedCategoryId]);
+  const selectedCategory = useMemo(
+    () => filteredCategories.find((category) => category.id === selectedCategoryId) || null,
+    [filteredCategories, selectedCategoryId],
+  );
 
   const results = useMemo(() => {
     return filteredCategories.map((category) => {
@@ -1203,8 +1206,14 @@ export default function GyeongoJinTestApp() {
   const topicResults = useMemo(() => {
     return topicCatalog.map((topic) => {
       const categories = getCategoriesByTopic(topic.id);
-      const checkedCount = categories.reduce((sum, category) => sum + category.questions.filter((q) => answers[q.id] === 'yes').length, 0);
-      const answeredCount = categories.reduce((sum, category) => sum + category.questions.filter((q) => isAnswered(answers[q.id])).length, 0);
+      const checkedCount = categories.reduce(
+        (sum, category) => sum + category.questions.filter((q) => answers[q.id] === 'yes').length,
+        0,
+      );
+      const answeredCount = categories.reduce(
+        (sum, category) => sum + category.questions.filter((q) => isAnswered(answers[q.id])).length,
+        0,
+      );
       return {
         ...topic,
         checkedCount,
@@ -1216,9 +1225,18 @@ export default function GyeongoJinTestApp() {
   }, [answers]);
 
   const totalQuestions = filteredCategories.reduce((sum, category) => sum + category.questions.length, 0);
-  const checkedQuestions = filteredCategories.reduce((sum, category) => sum + category.questions.filter((q) => answers[q.id] === 'yes').length, 0);
-  const answeredQuestions = filteredCategories.reduce((sum, category) => sum + category.questions.filter((q) => isAnswered(answers[q.id])).length, 0);
-  const topCategory = useMemo(() => (results.length ? [...results].sort((a, b) => b.checkedCount - a.checkedCount)[0] : null), [results]);
+  const checkedQuestions = filteredCategories.reduce(
+    (sum, category) => sum + category.questions.filter((q) => answers[q.id] === 'yes').length,
+    0,
+  );
+  const answeredQuestions = filteredCategories.reduce(
+    (sum, category) => sum + category.questions.filter((q) => isAnswered(answers[q.id])).length,
+    0,
+  );
+  const topCategory = useMemo(
+    () => (results.length ? [...results].sort((a, b) => b.checkedCount - a.checkedCount)[0] : null),
+    [results],
+  );
   const activeTopic = topicResults.find((topic) => topic.id === selectedTopicId) || null;
   const requiredTopics = topicResults.filter((topic) => topic.totalQuestions > 0);
   const allMajorTopicsComplete = requiredTopics.length > 0 && requiredTopics.every((topic) => topic.answeredCount === topic.totalQuestions);
@@ -1270,6 +1288,12 @@ export default function GyeongoJinTestApp() {
     }
   };
 
+  const totalAnsweredAll = topicResults.reduce((sum, topic) => sum + topic.answeredCount, 0);
+  const totalQuestionsAll = topicResults.reduce((sum, topic) => sum + topic.totalQuestions, 0);
+  const totalCheckedAll = topicResults.reduce((sum, topic) => sum + topic.checkedCount, 0);
+  const totalRatioAll = totalQuestionsAll ? Math.round((totalCheckedAll / totalQuestionsAll) * 100) : 0;
+  const topThreeTopics = [...topicResults].sort((a, b) => b.checkedCount - a.checkedCount).slice(0, 3);
+
   return (
     <div style={{ minHeight: '100vh', background: '#f8fafc', padding: 16, fontFamily: 'system-ui, sans-serif', color: '#111827' }}>
       <div style={{ maxWidth: 1080, margin: '0 auto', display: 'flex', flexDirection: 'column', gap: 20 }}>
@@ -1297,7 +1321,9 @@ export default function GyeongoJinTestApp() {
           )}
 
           {currentScreen === 'intro' && (
-            <button type="button" onClick={handleStartTest} style={{ ...buttonStyle(), width: '100%' }}>테스트 시작</button>
+            <button type="button" onClick={handleStartTest} style={{ ...buttonStyle(), width: '100%' }}>
+              테스트 시작
+            </button>
           )}
 
           {currentScreen === 'topic' && (
@@ -1318,13 +1344,18 @@ export default function GyeongoJinTestApp() {
                       <div style={{ fontSize: 12, color: '#64748b', marginTop: 4 }}>문항 수 {topic.totalQuestions || '-'}개</div>
                     </div>
                     <div style={badgeStyle()}>
-                      응답 <span style={{ color: topic.answeredCount < topic.totalQuestions ? '#ef4444' : 'inherit', fontWeight: topic.answeredCount < topic.totalQuestions ? 700 : 400 }}>{topic.answeredCount}/{topic.totalQuestions}</span>
+                      응답{' '}
+                      <span style={{ color: topic.answeredCount < topic.totalQuestions ? '#ef4444' : 'inherit', fontWeight: topic.answeredCount < topic.totalQuestions ? 700 : 400 }}>
+                        {topic.answeredCount}/{topic.totalQuestions}
+                      </span>
                       {' '}· 해당 {topic.checkedCount}/{topic.totalQuestions}
                     </div>
                   </div>
                 </button>
               ))}
-              <button type="button" onClick={goToResultsScreen} style={{ ...buttonStyle(), width: '100%' }}>결과 보기</button>
+              <button type="button" onClick={goToResultsScreen} style={{ ...buttonStyle(), width: '100%' }}>
+                결과 보기
+              </button>
             </div>
           )}
 
@@ -1348,14 +1379,19 @@ export default function GyeongoJinTestApp() {
                     <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12, alignItems: 'center', flexWrap: 'wrap' }}>
                       <span style={{ fontWeight: 700 }}>{category.name}</span>
                       <div style={badgeStyle()}>
-                        응답 <span style={{ color: answered < category.questions.length ? '#ef4444' : 'inherit', fontWeight: answered < category.questions.length ? 700 : 400 }}>{answered}/{category.questions.length}</span>
+                        응답{' '}
+                        <span style={{ color: answered < category.questions.length ? '#ef4444' : 'inherit', fontWeight: answered < category.questions.length ? 700 : 400 }}>
+                          {answered}/{category.questions.length}
+                        </span>
                         {' '}· 해당 {checked}/{category.questions.length}
                       </div>
                     </div>
                   </button>
                 );
               })}
-              <button type="button" onClick={goToResultsScreen} style={{ ...buttonStyle(), width: '100%' }}>결과 보기</button>
+              <button type="button" onClick={goToResultsScreen} style={{ ...buttonStyle(), width: '100%' }}>
+                결과 보기
+              </button>
             </div>
           )}
 
@@ -1384,7 +1420,9 @@ export default function GyeongoJinTestApp() {
                   </div>
                 );
               })}
-              <button type="button" onClick={goToCategoryScreen} style={{ ...buttonStyle(), width: '100%' }}>목록으로</button>
+              <button type="button" onClick={goToCategoryScreen} style={{ ...buttonStyle(), width: '100%' }}>
+                목록으로
+              </button>
             </div>
           )}
 
@@ -1392,65 +1430,102 @@ export default function GyeongoJinTestApp() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
               <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
                 <button type="button" onClick={goToTopicScreen} style={buttonStyle('outline')}>뒤로</button>
-                <button type="button" onClick={handleSaveResultsImage} disabled={!allMajorTopicsComplete} style={buttonStyle('solid', !allMajorTopicsComplete)}>결과 이미지 저장</button>
+                <button type="button" onClick={handleSaveResultsImage} disabled={!allMajorTopicsComplete} style={buttonStyle('solid', !allMajorTopicsComplete)}>
+                  결과 이미지 저장
+                </button>
               </div>
-              <div ref={resultsCaptureRef} style={{ display: 'flex', flexDirection: 'column', gap: 16, background: '#fff', borderRadius: 16 }}>
+
+              <div ref={resultsCaptureRef} style={{ display: 'flex', flexDirection: 'column', gap: 20, background: '#fff', borderRadius: 20, padding: 20 }}>
+                <div style={{ ...cardStyle({ padding: 18, background: '#0f172a', color: '#fff' }) }}>
+                  <div style={{ fontSize: 24, fontWeight: 900, marginBottom: 6 }}>견고한 진 테스트 결과</div>
+                  <div style={{ fontSize: 14, opacity: 0.9 }}>
+                    총 응답 {totalAnsweredAll}/{totalQuestionsAll} · 해당됨 {totalCheckedAll}
+                  </div>
+                  <div style={{ fontSize: 28, fontWeight: 900, marginTop: 8 }}>전체 비율 {totalRatioAll}%</div>
+                </div>
+
+                <div style={{ ...cardStyle({ padding: 16 }) }}>
+                  <div style={{ fontWeight: 800, marginBottom: 10 }}>⚠️ 가장 높은 영역 TOP 3</div>
+                  {topThreeTopics.map((topic, index) => (
+                    <div key={topic.id} style={{ marginBottom: 6 }}>
+                      {index + 1}. {topic.name} ({topic.checkedCount}/{topic.totalQuestions}, {topic.ratio}%)
+                    </div>
+                  ))}
+                </div>
+
                 <div style={{ overflowX: 'auto', ...cardStyle() }}>
-                  <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 720 }}>
+                  <table style={{ width: '100%', borderCollapse: 'collapse', minWidth: 860 }}>
                     <thead style={{ background: '#f1f5f9' }}>
                       <tr>
-                        <th style={{ padding: 12, textAlign: 'left' }}>번호</th>
-                        <th style={{ padding: 12, textAlign: 'left' }}>견고한 진</th>
-                        <th style={{ padding: 12, textAlign: 'left' }}>테스트 문항 수</th>
-                        <th style={{ padding: 12, textAlign: 'left' }}>나에게 해당되는 수</th>
-                        <th style={{ padding: 12, textAlign: 'left' }}>비율</th>
+                        <th style={{ padding: 12 }}>번호</th>
+                        <th style={{ padding: 12 }}>견고한 진</th>
+                        <th style={{ padding: 12 }}>응답</th>
+                        <th style={{ padding: 12 }}>해당</th>
+                        <th style={{ padding: 12 }}>비율</th>
                       </tr>
                     </thead>
                     <tbody>
                       {topicResults.map((topic) => {
                         const incomplete = topic.answeredCount < topic.totalQuestions;
+                        const high = topic.ratio >= 50;
                         return (
-                          <tr key={topic.id} style={{ borderTop: '1px solid #e5e7eb' }}>
+                          <tr key={topic.id} style={{ borderTop: '1px solid #e5e7eb', background: high ? '#fff1f2' : '#fff' }}>
                             <td style={{ padding: 12 }}>{topic.order}</td>
-                            <td style={{ padding: 12, color: incomplete ? '#ef4444' : '#9ca3af', fontWeight: 700 }}>
+                            <td style={{ padding: 12, fontWeight: 700 }}>
                               {incomplete ? (
                                 <button
                                   type="button"
                                   onClick={() => goToTopicCategoriesFromResults(topic.id)}
                                   style={{ background: 'none', border: 'none', padding: 0, color: '#ef4444', textDecoration: 'underline', cursor: 'pointer', fontWeight: 700 }}
                                 >
-                                  {topic.name} <span style={{ fontSize: 12 }}>(미완료)</span>
+                                  {topic.name} (미완료)
                                 </button>
                               ) : (
-                                <span>{topic.name} <span style={{ fontSize: 12 }}>(완료)</span></span>
+                                <span style={{ color: '#6b7280' }}>{topic.name} (완료)</span>
                               )}
                             </td>
-                            <td style={{ padding: 12 }}>{topic.totalQuestions || '-'}</td>
-                            <td style={{ padding: 12, color: incomplete ? '#ef4444' : 'inherit', fontWeight: incomplete ? 700 : 400 }}>{topic.checkedCount}</td>
-                            <td style={{ padding: 12 }}>{topic.totalQuestions ? `${topic.ratio}%` : '-'}</td>
+                            <td style={{ padding: 12, color: incomplete ? '#ef4444' : 'inherit' }}>{topic.answeredCount}/{topic.totalQuestions}</td>
+                            <td style={{ padding: 12 }}>{topic.checkedCount}</td>
+                            <td style={{ padding: 12, fontWeight: 800, color: high ? '#dc2626' : '#111827' }}>
+                              {topic.checkedCount}/{topic.totalQuestions} ({topic.ratio}%)
+                            </td>
                           </tr>
                         );
                       })}
                     </tbody>
                   </table>
                 </div>
-                {!allMajorTopicsComplete && (
-                  <div style={{ ...cardStyle({ padding: 14, background: '#fef2f2', border: '1px solid #fecaca', color: '#dc2626' }) }}>
-                    아직 모든 테스트 응답이 끝나지 않아서 이미지 저장은 잠겨 있어요.
-                  </div>
-                )}
-                {allMajorTopicsComplete && (
-                  <div style={{ ...cardStyle({ padding: 14, background: '#ecfdf5', border: '1px solid #a7f3d0', color: '#047857' }) }}>
-                    모든 테스트 응답이 완료됐어요. 결과 이미지를 휴대폰에 저장할 수 있습니다.
-                  </div>
-                )}
-                <div style={cardStyle({ padding: 14 })}>
-                  현재 주제 합계: 해당됨 {activeTopic?.checkedCount ?? 0}/{activeTopic?.totalQuestions ?? 0}
-                  {' '}· 해당 비율 {activeTopic?.ratio ?? 0}% · 응답{' '}
-                  <span style={{ color: (activeTopic?.answeredCount ?? 0) < (activeTopic?.totalQuestions ?? 0) ? '#ef4444' : 'inherit', fontWeight: (activeTopic?.answeredCount ?? 0) < (activeTopic?.totalQuestions ?? 0) ? 700 : 400 }}>
-                    {activeTopic?.answeredCount ?? 0}/{activeTopic?.totalQuestions ?? 0}
-                  </span>
+
+                <div style={{ ...cardStyle({ padding: 14, background: '#f8fafc' }) }}>
+                  현재 주제: {activeTopic?.name}
+                  <br />
+                  응답 {activeTopic?.answeredCount ?? 0}/{activeTopic?.totalQuestions ?? 0} · 해당 {activeTopic?.checkedCount ?? 0} · 비율 {activeTopic?.ratio ?? 0}%
                 </div>
+              </div>
+
+              {!allMajorTopicsComplete && (
+                <div style={{ ...cardStyle({ padding: 14, background: '#fef2f2', border: '1px solid #fecaca', color: '#dc2626' }) }}>
+                  아직 모든 테스트 응답이 끝나지 않아서 이미지 저장은 잠겨 있어요.
+                </div>
+              )}
+
+              {allMajorTopicsComplete && (
+                <div style={{ ...cardStyle({ padding: 14, background: '#ecfdf5', border: '1px solid #a7f3d0', color: '#047857' }) }}>
+                  모든 테스트 응답이 완료됐어요. 결과 이미지를 휴대폰에 저장할 수 있습니다.
+                </div>
+              )}
+
+              <div style={cardStyle({ padding: 14 })}>
+                현재 주제 합계: 해당됨 {activeTopic?.checkedCount ?? 0}/{activeTopic?.totalQuestions ?? 0}
+                {' '}· 해당 비율 {activeTopic?.ratio ?? 0}% · 응답{' '}
+                <span
+                  style={{
+                    color: (activeTopic?.answeredCount ?? 0) < (activeTopic?.totalQuestions ?? 0) ? '#ef4444' : 'inherit',
+                    fontWeight: (activeTopic?.answeredCount ?? 0) < (activeTopic?.totalQuestions ?? 0) ? 700 : 400,
+                  }}
+                >
+                  {activeTopic?.answeredCount ?? 0}/{activeTopic?.totalQuestions ?? 0}
+                </span>
               </div>
             </div>
           )}

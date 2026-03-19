@@ -1094,7 +1094,7 @@ export default function GyeongoJinTestApp() {
           <button type="button" onClick={resetAll} style={buttonStyle('outline')}>초기화</button>
         </div>
 
-        {currentScreen !== 'intro' && (
+        {currentScreen !== 'intro' && currentScreen !== 'topic' && (
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: 12 }}>
             <div style={cardStyle({ padding: 14 })}>해당됨 {checkedQuestions}/{totalQuestions}</div>
             <div style={cardStyle({ padding: 14 })}>응답 {answeredQuestions}/{totalQuestions}</div>

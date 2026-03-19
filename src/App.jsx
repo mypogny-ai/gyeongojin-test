@@ -4,7 +4,7 @@ import * as htmlToImage from 'html-to-image';
 const topicCatalog = [
   { id: 'fear', order: 1, name: '두려움', totalQuestions: 78 },
   { id: 'condemnation', order: 2, name: '정죄감', totalQuestions: 23 },
-  { id: 'anger', order: 3, name: '분노', totalQuestions: 60 },
+  { id: 'anger', order: 3, name: '분노', totalQuestions: 45 },
   { id: 'critical', order: 4, name: '비판적인 태도', totalQuestions: 13 },
   { id: 'appearance', order: 5, name: '외모 콤플렉스', totalQuestions: 33 },
   { id: 'rejection', order: 6, name: '거절감', totalQuestions: 33 },
@@ -276,27 +276,6 @@ const angerCategories = buildCategories([
       `부모님이 애정이나 축복, 훈육 또는 격려와 인정의 말들을 잘 해주지 않았나요?`,
       `부모님이 다른 형제 자매들을 대하는 방식을 볼 때 마음이 상하고 씁쓸했던 적이 있었나요?`,
       `아버지가 어머니를 대하는 모습을 볼 때 당신의 마음이 상하고 괴로운 적이 있었나요?`
-    ]
-  },
-  {
-    id: 'anger-3',
-    name: '아직 용서하지 못한 사람들 점검하기',
-    questions: [
-      `형제 자매 및 친구들: 질투 / 경쟁 / 배신 등의 방식으로 당신에게 거절감을 주었던 사람`,
-      `여자 친구, 남자 친구: 거절 / 배신 등을 경험하게 한 사람`,
-      `권위자: 거절 / 팀 동료들과 공개적으로 비교 당한 경험`,
-      `권위자: 배신 / 무시당하거나 소외당한 경험`,
-      `권위자: 격려나 응원을 받지 못한 경험`,
-      `권위자: 모임을 이끌기 위해 과도한 분노나 거친 말들을 사용`,
-      `배우자: 배신 또는 신의를 지키지 못함(간음)`,
-      `배우자: 통제/ 조종`,
-      `배우자: 남편이 가정의 영적 리더로서 역할을 감당하지 않음`,
-      `배우자: 무관심 / 방치 / 거절 / 수동성`,
-      `배우자: 비판 / 조건적인 사랑`,
-      `배우자: 거짓말 또는 비밀`,
-      `배우자: 중독 / 이혼`,
-      `배우자: 학대`,
-      `배우자: 애정이나 격려 부족`
     ]
   }
 ]);

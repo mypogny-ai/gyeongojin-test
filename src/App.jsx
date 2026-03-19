@@ -4,7 +4,7 @@ import * as htmlToImage from 'html-to-image';
 const topicCatalog = [
   { id: 'fear', order: 1, name: '두려움', totalQuestions: 78 },
   { id: 'condemnation', order: 2, name: '정죄감', totalQuestions: 23 },
-  { id: 'anger', order: 3, name: '분노', totalQuestions: 45 },
+  { id: 'anger', order: 3, name: '분노', totalQuestions: 60 },
   { id: 'critical', order: 4, name: '비판적인 태도', totalQuestions: 13 },
   { id: 'appearance', order: 5, name: '외모 콤플렉스', totalQuestions: 33 },
   { id: 'rejection', order: 6, name: '거절감', totalQuestions: 33 },
@@ -249,7 +249,7 @@ const angerCategories = buildCategories([
       `나는 용서했다고 말하지만 속으로 그 주제들을 계속 되짚어 생각할 때가 많습니다.`,
       `다른 사람들의 결점과 실수를 보면 금방 답답함을 느낍니다.`,
       `나는 금방 조급해지는 편입니다.`,
-      `종종 내 삶이 다른 사람들보다 더 힘들다고 느꼈습니다. ‘나는 팔자가 사납다’.`
+      `종종 내 삶이 다른 사람들보다 더 힘들다고 느낍니다. ‘나는 팔자가 사납다’.`
     ]
   },
   {
@@ -265,8 +265,14 @@ const angerCategories = buildCategories([
       `수동성: 아버지가 가정의 리더로서 주도적인 역할을 감당해 주지 않으심`,
       `비판: 부모님이 당신의 능력과 삶의 방식을 자주 비판함`,
       `성과에 따른 인정과 사랑: 부모님의 기대에 부응했을 때만 칭찬이나 격려의 말을 들음`,
-      `술 중독 / 마약 중독 / 포르노 중독 / 간음 / 이혼`,
-      `신체 학대 / 감정적 학대 / 성적 학대`,
+      `술 중독`,
+      `마약 중독`,
+      `포르노 중독`,
+      `간음`,
+      `이혼`,
+      `신체 학대`,
+      `감정적 학대`,
+      `성적 학대`,
       `부모님이 애정이나 축복, 훈육 또는 격려와 인정의 말들을 잘 해주지 않았나요?`,
       `부모님이 다른 형제 자매들을 대하는 방식을 볼 때 마음이 상하고 씁쓸했던 적이 있었나요?`,
       `아버지가 어머니를 대하는 모습을 볼 때 당신의 마음이 상하고 괴로운 적이 있었나요?`

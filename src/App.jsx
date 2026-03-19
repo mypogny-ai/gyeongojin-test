@@ -943,7 +943,7 @@ function getCategoriesByTopic(topicId) {
   if (topicId === 'jealousy') return jealousyCategories;
   if (topicId === 'control') return controlCategories;
   if (topicId === 'entitlement') return entitlementCategories;
-  if (topicId === 'instability') return instabilityCatego
+  if (topicId === 'instability') return instabilityCategories;
   return [];
 }
 
@@ -1094,20 +1094,23 @@ export default function GyeongoJinTestApp() {
           <button type="button" onClick={resetAll} style={buttonStyle('outline')}>초기화</button>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: 12 }}>
-          <div style={cardStyle({ padding: 14 })}>해당됨 {checkedQuestions}/{totalQuestions}</div>
-          <div style={cardStyle({ padding: 14 })}>응답 {answeredQuestions}/{totalQuestions}</div>
-          <div style={cardStyle({ padding: 14 })}>{topCategory?.name || '-'}</div>
-        </div>
+        {currentScreen !== 'intro' && (
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: 12 }}>
+            <div style={cardStyle({ padding: 14 })}>해당됨 {checkedQuestions}/{totalQuestions}</div>
+            <div style={cardStyle({ padding: 14 })}>응답 {answeredQuestions}/{totalQuestions}</div>
+            <div style={cardStyle({ padding: 14 })}>{topCategory?.name || '-'}</div>
+          </div>
+        )}
 
         <div style={cardStyle({ padding: 20 })}>
-          <h2 style={{ marginTop: 0 }}>
-            {currentScreen === 'intro' && '시작'}
-            {currentScreen === 'topic' && '주제 선택'}
-            {currentScreen === 'category' && '세부 항목'}
-            {currentScreen === 'questions' && '문항'}
-            {currentScreen === 'results' && '결과'}
-          </h2>
+          {currentScreen !== 'intro' && (
+            <h2 style={{ marginTop: 0 }}>
+              {currentScreen === 'topic' && '주제 선택'}
+              {currentScreen === 'category' && '세부 항목'}
+              {currentScreen === 'questions' && '문항'}
+              {currentScreen === 'results' && '결과'}
+            </h2>
+          )}
 
           {currentScreen === 'intro' && (
               <button type="button" onClick={handleStartTest} style={{ ...buttonStyle(), width: '100%' }}>테스트 시작</button>
